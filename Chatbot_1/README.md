@@ -1,2 +1,1 @@
-![My Logo](images/langchain_logo.png)
-
+![LangChain Logo](Chatbot_1/images/logo.png)
