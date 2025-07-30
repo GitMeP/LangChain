@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/GitMeP/LangChain/blob/master/Chatbot_1/images/logo.png" alt="LangChain Logo" width="250"/>
+  <img src="https://github.com/GitMeP/LangChain/blob/master/Chatbot_1/images/logo.jpg" alt="LangChain Logo" width="250"/>
 </p>
 
 **LangChain** is a complete framework that helps you build LLM-powered applications.
