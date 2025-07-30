@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/GitMeP/LangChain/blob/master/Chatbot_1/images/logo.png" alt="LangChain Logo" width="150"/>
+  <img src="https://github.com/GitMeP/LangChain/blob/master/Chatbot_1/images/logo.png" alt="LangChain Logo" width="350"/>
 </p>
 
 **LangChain** is a complete framework that helps you build LLM-powered applications.
@@ -12,6 +12,7 @@
 It’s a framework designed for developing applications powered by **Large Language Models (LLMs)**.
 
 It simplifies every stage of the Large Language Models application lifecycle:
-![LifeCycle](https://github.com/GitMeP/LangChain/blob/master/Chatbot_1/images/data1.png)
+![LifeCycle](https://github.com/GitMeP/LangChain/blob/master/Chatbot_1/images/ecosys.png)
 
 ## **LangChain Eco-System**
+![Eco-Syatem](https://github.com/GitMeP/LangChain/blob/master/Chatbot_1/images/.png)
